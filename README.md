@@ -33,5 +33,6 @@ based on the moisture level.
 
 Source file: plant_irrigation.ino
 
+![Circuit Diagram](Screenshot_20261122-175838_WhatsApp.png)
 Conclusion
 This project helps automate plant watering, saves water and reduces manual effort.
