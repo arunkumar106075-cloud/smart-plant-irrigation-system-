@@ -22,6 +22,9 @@ Applications:
 •Smart agriculture
 •Greenhouse automation
 •Water conservation
+## 📸 Project Output
+
+![Smart Plant Irrigation System](Screenshot_20261113-134708_LinkedIn.png)
 
 Conclusion
 This project helps automate plant watering, saves water and reduces manual effort.
