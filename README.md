@@ -25,6 +25,13 @@ Applications:
 ## 📸 Project Output
 
 ![Smart Plant Irrigation System](Screenshot_20261113-134708_LinkedIn.png)
+## 💻 Source Code
+
+The Arduino program reads soil moisture values
+and automatically controls the water pump
+based on the moisture level.
+
+Source file: plant_irrigation.ino
 
 Conclusion
 This project helps automate plant watering, saves water and reduces manual effort.
